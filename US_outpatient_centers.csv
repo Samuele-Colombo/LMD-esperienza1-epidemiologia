@@ -1,0 +1,5 @@
+YEAR,NUM. OF PROVIDERS,SOURCE
+2019, 47895," ""https://data.census.gov/cedsci/table?q=cb18&g=0100000US,%2404000%24001&n=6214&tid=CBP2019.CB1900CBP&nkd=EMPSZES~001,LFO~001"""
+2018, 46254," ""https://data.census.gov/cedsci/table?q=cb18&g=0100000US,%2404000%24001&n=6214&tid=CBP2018.CB1800CBP&nkd=EMPSZES~001,LFO~001"""
+2017, 45352," ""https://data.census.gov/cedsci/table?q=economic%20census&g=0100000US,%2404000%24001&n=6214&tid=ECNNAPCSIND2017.EC1700NAPCSINDPRD"""
+2012, 34752," ""https://data.census.gov/cedsci/table?q=economic%20census&g=0100000US,%2404000%24001&n=6214&tid=ECNBASIC2012.EC1200A1&nkd=TAXSTAT~00"""
